@@ -1,0 +1,33 @@
+
+
+
+body{
+    background-color: rgb(144, 175, 175);
+    display: flex;
+    justify-content: center;
+    align-content: cente;
+}
+
+
+.container{
+    display: flex;
+   justify-content: space-around;
+   flex-direction: column;
+   align-items: center;
+    background-color: rgb(69, 59, 156);
+    height: 500px;
+    width: 500px;
+}
+span{
+    font-size:100px;
+}
+p{
+    padding: 30px;
+    font-size: 20px;
+    color: rgb(233, 236, 13);
+}
+#btn{
+    padding: 10px;
+    background-color: rgb(193, 235, 41);
+    border-color: rgb(219, 219, 46);
+}
